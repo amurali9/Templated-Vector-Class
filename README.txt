@@ -1,1 +1,0 @@
-Templated Vector Class
